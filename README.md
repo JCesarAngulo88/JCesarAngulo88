@@ -18,7 +18,7 @@ I'm passionate about technology and continuously strive to improve the quality o
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julio-c%C3%A9sar-angulo-tejeda-b88234a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-angulo-tejeda-b88234a3/)
 
 
 Feel free to reach out or explore my work across projects here on GitHub.
